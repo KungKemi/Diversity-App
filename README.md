@@ -7,7 +7,7 @@ single Excel sheet.
 1.2 RAW EXCEL SHEET LOCATION
 
 It is expected that this folder is at a deeper branch of the current app directory (i.e., located in a folder in the same directory
-as the app, or in a folder within said folder, etc.) For every additional level of branching, a \\ must be appended after the name of 
+as the app, or in a folder within said folder, etc.) For every additional level of branching, a \\\ must be appended after the name of 
 the previous folder.
 
 1.3 COLUMN FILE LOCATION
