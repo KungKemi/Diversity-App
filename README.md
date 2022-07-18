@@ -1,4 +1,4 @@
-# DiversityApp
+# Diversity App
 1.1 OVERVIEW
 
 The NCCD app was built with the purpose of compiling student data, from one or more Excel spreadsheets located in the same folder, into a
