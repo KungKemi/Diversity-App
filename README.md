@@ -22,10 +22,10 @@ If a cell in a numerical column is empty, then it will be filled with a 0.
 
 It is assumed that a column which contains numerical data will have one of the following values:
 
-0 = None
-1 = Differentiation
-2 = Supplementary
-3 = Substantial
+0 = None,
+1 = Differentiation,
+2 = Supplementary,
+3 = Substantial,
 4 = Extensive
 
 If a column contains numerical data other than one of the five values specified above, then an error will be thrown.
