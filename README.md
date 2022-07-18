@@ -85,6 +85,7 @@ Within this file will be two sheets:
 2) an 'average' sheet containing all of the student data grouped by name, with each numerical column being averaged and rounded to the nearest integer.
    A 'Mean' column will be included which specifies the category of the student after averaging the data across every numerical column for said student.
 
-2. DISCLAIMER
+
+2.0 DISCLAIMER
 
 Failure to use this app in the intended way, as stipulated above, may result in unexpected behaviour.
