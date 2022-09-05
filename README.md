@@ -85,6 +85,6 @@ Within this file will be two sheets:
    A 'Mean' column will be included which specifies the category of the student after averaging the data across every numerical column for said student.
 
 
-## 2.0 Disclaimer
+## 1.8 Disclaimer
 
 Failure to use this app in the intended way, as stipulated above, may result in unexpected behaviour.
